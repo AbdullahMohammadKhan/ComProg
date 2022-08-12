@@ -182,3 +182,16 @@ third param of range():
 https://leetcode.com/problems/decompress-run-length-encoded-list/
 https://thispointer.com/python-how-to-create-a-list-and-initialize-with-same-values/
 
+To insert a list item at a specified index
+https://www.w3schools.com/python/python_lists_add.asp
+https://leetcode.com/problems/create-target-array-in-the-given-order/
+
+
+You can't replace an item at a specific index:
+https://stackoverflow.com/questions/41752946/replacing-a-character-from-a-certain-index#:~:text=As%20strings%20are%20immutable%20in,value%20at%20the%20desired%20index.&text=You%20can%20quickly%20(and%20obviously,%22slices%22%20of%20the%20original.
+https://leetcode.com/problems/shuffle-string/
+do it with arrays: https://www.simplilearn.com/tutorials/python-tutorial/list-to-string-in-python#:~:text=To%20convert%20a%20list%20to%20a%20string%2C%20use%20Python%20List,and%20return%20it%20as%20output.
+https://www.digitalocean.com/community/tutorials/python-convert-string-to-list
+Explain why the list method is slower ?
+
+
