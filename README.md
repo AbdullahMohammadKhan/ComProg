@@ -139,3 +139,6 @@ var add2 = function(number) {
   return number + 2;
 }
 ```
+
+How to access an array element ?
+https://leetcode.com/problems/build-array-from-permutation/
