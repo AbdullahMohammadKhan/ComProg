@@ -178,4 +178,7 @@ https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 boolean value for python: starts with T and F 
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/discuss/
 
+third param of range():
+https://leetcode.com/problems/decompress-run-length-encoded-list/
+https://thispointer.com/python-how-to-create-a-list-and-initialize-with-same-values/
 
