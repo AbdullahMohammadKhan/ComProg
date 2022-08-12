@@ -159,4 +159,9 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
 
 2D array, indexing at it's best, max() function:
 https://leetcode.com/problems/richest-customer-wealth/
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 https://leetcode.com/problems/richest-customer-wealth/discuss/?currentPage=1&orderBy=most_votes&query=
+
+
+index play, append()
+https://leetcode.com/problems/shuffle-the-array/
