@@ -171,7 +171,7 @@ range function:
 https://leetcode.com/problems/number-of-good-pairs/
 https://www.w3schools.com/python/ref_func_range.asp
 https://leetcode.com/problems/number-of-good-pairs/discuss/
-
+similar: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/
 
 max for list: https://www.tutorialspoint.com/python/list_max.htm
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
