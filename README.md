@@ -157,11 +157,25 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
 https://leetcode.com/problems/final-value-of-variable-after-performing-operations/discuss/
 
 
-2D array, indexing at it's best, max() function:
+2D array, indexing at it's best, max() function for two values:
 https://leetcode.com/problems/richest-customer-wealth/
 https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/discuss/
 https://leetcode.com/problems/richest-customer-wealth/discuss/?currentPage=1&orderBy=most_votes&query=
 
 
 index play, append()
 https://leetcode.com/problems/shuffle-the-array/
+
+range function:
+https://leetcode.com/problems/number-of-good-pairs/
+https://www.w3schools.com/python/ref_func_range.asp
+https://leetcode.com/problems/number-of-good-pairs/discuss/
+
+
+max for list: https://www.tutorialspoint.com/python/list_max.htm
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+boolean value for python: starts with T and F 
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/discuss/
+
+
