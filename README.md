@@ -151,3 +151,9 @@ TODO:: https://leetcode.com/problems/concatenation-of-array/discuss/1330138/Pyth
 How to do cumulative sum with an array ?
 https://leetcode.com/problems/running-sum-of-1d-array
 TODO:: https://leetcode.com/problems/running-sum-of-1d-array/discuss/
+
++= -= in python:
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/discuss/
+
+
