@@ -142,3 +142,12 @@ var add2 = function(number) {
 
 How to access an array element ?
 https://leetcode.com/problems/build-array-from-permutation/
+TODO:: https://leetcode.com/problems/build-array-from-permutation/discuss/?currentPage=1&orderBy=most_votes&query=
+
+How to add two arrays ?
+https://leetcode.com/problems/concatenation-of-array/submissions/
+TODO:: https://leetcode.com/problems/concatenation-of-array/discuss/1330138/Python-One-Line-Straight-Forward-Solution
+
+How to do cumulative sum with an array ?
+https://leetcode.com/problems/running-sum-of-1d-array
+TODO:: https://leetcode.com/problems/running-sum-of-1d-array/discuss/
