@@ -1,5 +1,7 @@
 # ComProg
-
+https://www.pythoncheatsheet.org/cheatsheet/comprehensions
+https://programmingwithmosh.com/wp-content/uploads/2019/02/Python-Cheat-Sheet.pdf
+https://www.pythoncheatsheet.org/cheatsheet/comprehensions
 ## Dictionary
 
 #### How does a python dictionary look like ?
