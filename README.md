@@ -162,6 +162,7 @@ https://leetcode.com/problems/richest-customer-wealth/
 https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/discuss/
 https://leetcode.com/problems/richest-customer-wealth/discuss/?currentPage=1&orderBy=most_votes&query=
+similar: https://leetcode.com/problems/count-items-matching-a-rule/submissions/
 
 
 index play, append()
@@ -192,6 +193,10 @@ https://stackoverflow.com/questions/41752946/replacing-a-character-from-a-certai
 https://leetcode.com/problems/shuffle-string/
 do it with arrays: https://www.simplilearn.com/tutorials/python-tutorial/list-to-string-in-python#:~:text=To%20convert%20a%20list%20to%20a%20string%2C%20use%20Python%20List,and%20return%20it%20as%20output.
 https://www.digitalocean.com/community/tutorials/python-convert-string-to-list
+
 Explain why the list method is slower ?
+
+https://leetcode.com/problems/number-of-arithmetic-triplets/
+https://www.youtube.com/results?search_query=2367.+Number+of+Arithmetic+Triplets
 
 
