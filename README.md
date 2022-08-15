@@ -233,6 +233,6 @@ https://www.youtube.com/watch?v=4SdOYDW4HAk&ab_channel=KacyCodes
 https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/
 https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c
 The two brute force methods are very very important. They look different, but does the same job.
-
+Another brute force approach here using prefix sum: https://youtu.be/NTT1VvrKL0o
 ###
 
