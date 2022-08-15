@@ -242,5 +242,6 @@ Frankly speaking , i didn't get any of the explanation at the begining
 A better explanation using prefix sum: https://youtu.be/VeP7Mm8SkMI
 using dp: https://youtu.be/kfy32Hshcy0
 TODO::: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/discuss/?currentPage=1&orderBy=most_votes&query=
+Analyze later: https://helloacm.com/algorithms-to-sum-of-all-odd-length-subarrays/
 ###
 
