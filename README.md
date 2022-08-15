@@ -201,4 +201,31 @@ Explain why the list method is slower ?
 https://leetcode.com/problems/number-of-arithmetic-triplets/
 https://www.youtube.com/results?search_query=2367.+Number+of+Arithmetic+Triplets
 
+####
+https://leetcode.com/problems/number-of-arithmetic-triplets/submissions/
+BruteForce: https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2390597/Python-using-Pointer
+We can nake it shorter using a different data structure SET:
+https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2390635/JavaPython-3-HashSet-O(n)-codes-w-analysis.
+So, basically what we are doing here is that we are actually doing the same thing with sets as we did with list. But sets are a lot faster and that gives us an advantage:
+https://stackoverflow.com/questions/13884177/complexity-of-in-operator-in-python
+https://stackoverflow.com/questions/56419144/time-complexity-of-in-containment-operator
+There 3 ways we can look up:
+i+diff i+diff*2
+i-diff i-diff*2
+i+diff i-diff
+Now, it's very crucial to understand when to use what.
+In the above solution the use of sum is very mysterious and so here's what I got:
+https://realpython.com/python-sum-function/
+Since this is a sorted array, we can use a binary search as well:
+https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2415108/Python-Elegant-and-Short-or-Two-solutions-or-O(n)-and-O(n*log(n))-or-Binary-search
+https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2391872/Latest-Solution-oror-Detailed-Explanation-oror-2-Approaches
+FOOD FOR THOUGHT: 
+What if the array is unsorted or elements are negative or diff is negative?
+https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2390787/A-generic-Dynamic-Programming-(Ai-diff)-oror-Intuition-Updated (TODO)
+https://leetcode.com/problems/number-of-arithmetic-triplets/discuss/2417154/Python-2-Brute-Force-and-efficient-approach-with-explanation.
+TOD0:: FOOD FOR THOUGHT:
+https://www.geeksforgeeks.org/print-triplets-sorted-array-form-ap/
+####
+
+
 
