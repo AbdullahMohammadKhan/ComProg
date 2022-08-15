@@ -234,5 +234,13 @@ https://www.geeksforgeeks.org/sum-of-all-odd-length-subarrays/
 https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c
 The two brute force methods are very very important. They look different, but does the same job.
 Another brute force approach here using prefix sum: https://youtu.be/NTT1VvrKL0o
+
+this is the trick: https://youtu.be/J5IIH35EBVE
+A bit more detailed: https://youtu.be/LSFcmgq0HYY
+very good one: https://youtu.be/4SdOYDW4HAk
+Frankly speaking , i didn't get any of the explanation at the begining 
+A better explanation using prefix sum: https://youtu.be/VeP7Mm8SkMI
+using dp: https://youtu.be/kfy32Hshcy0
+TODO::: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/discuss/?currentPage=1&orderBy=most_votes&query=
 ###
 
