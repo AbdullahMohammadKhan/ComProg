@@ -249,3 +249,26 @@ Analyze later: https://helloacm.com/algorithms-to-sum-of-all-odd-length-subarray
 ###
 SUBSCRIBE::: https://leetcode.com/problems/find-anagram-mappings/
 ###
+
+###
+2037. Minimum Number of Moves to Seat Everyone: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+Didn't understand the problem at all.
+Kind of get it now: https://youtu.be/MatKKmBChRY
+Similar problem: https://youtu.be/Wo168YDPwzk
+TODO:: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+I need to check the rest of the yt video solutions
+###
+
+###
+Count Number of Pairs With Absolute Difference K: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k
+###
+
+###
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/
+My submission is very poor here:
+Runtime: 46 ms, faster than 5.84% of Python online submissions for Check If Two String Arrays are Equivalent.
+###
+
+###
+
+###
