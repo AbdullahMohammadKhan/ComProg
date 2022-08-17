@@ -296,3 +296,5 @@ NEED TO WORK ON OPTIMIZATION
 ###
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 ###
+
+https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/
