@@ -287,3 +287,12 @@ https://www.google.com/search?q=string+to+list+python&oq=string+to+list+python&a
 1913. Maximum Product Difference Between Two Pairs
 https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 ###
+
+###
+https://leetcode.com/problems/count-good-triplets
+NEED TO WORK ON OPTIMIZATION
+###
+
+###
+https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+###
