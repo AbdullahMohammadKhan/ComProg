@@ -270,5 +270,20 @@ Runtime: 46 ms, faster than 5.84% of Python online submissions for Check If Two 
 ###
 
 ###
+https://leetcode.com/problems/count-the-number-of-consistent-strings/
+https://www.geeksforgeeks.org/convert-string-to-set-in-python/
+Thanks for the clarification: https://youtu.be/og8SijKgPtY
+Some people are solving it with bit manipulation.
+https://www.programiz.com/python-programming/methods/set/issuperset
+So much gem in the commenst
+###
 
+###
+https://leetcode.com/problems/truncate-sentence/
+https://www.google.com/search?q=string+to+list+python&oq=string+to+list+python&aqs=chrome..69i57j0i512l4j69i60l3.9791j0j4&sourceid=chrome&ie=UTF-8
+###
+
+###
+1913. Maximum Product Difference Between Two Pairs
+https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 ###
