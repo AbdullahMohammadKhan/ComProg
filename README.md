@@ -298,3 +298,7 @@ https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 ###
 
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/submissions/
+https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.
+
+
+
